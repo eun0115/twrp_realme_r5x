@@ -7,6 +7,9 @@
 
 DEVICE_PATH := device/realme/r5x
 
+# Assert
+TARGET_OTA_ASSERT_DEVICE := RMX1911,RMX1925,RMX2030,RMX1927,r5x
+
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
 
